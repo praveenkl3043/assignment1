@@ -1,0 +1,21 @@
+1.difference between http1.1 vs http hhtp2
+  
+ *HTTP2 is much faster and more reliable than HTTP1. 
+ *HTTP1 loads a single request for every TCP connection, while HTTP2 avoids network delay by using multiplexing. 
+ *HTTP is a network delay sensitive protocol in the sense that if there is less network delay, then the page loads faster.
+ *HTTP1.1 used to process text commands to complete request.
+ *HTTP2 will use binary commands to execute the same task.
+
+2.Write a blog about objects and its internal representation in Javascript
+
+ *Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+ *These objects are quite different from JavaScript’s primitive data-types
+           *Number
+           *String
+           *Boolean
+           *nul
+           *undefined
+           *symbol
+ *all store a single value each depending on their types.
+ *Objects are more complex 
+ *each object may contain any combination of these primitive data-types as well as reference data-types.
